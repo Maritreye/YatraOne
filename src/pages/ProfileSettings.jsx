@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { useAuth } from "../AuthContext";
 
 export default function ProfileSettings() {
   const navigate = useNavigate();
+  const { mongoUser } = useAuth();
   const [activeMenu] = useState("Settings");
   const [activeTab, setActiveTab] = useState("Personal Info");
   const [showToast, setShowToast] = useState(false);
@@ -14,15 +16,20 @@ export default function ProfileSettings() {
   const [showDeleteModal, setShowDeleteModal] = useState(false);
   const [deleteConfirmText, setDeleteConfirmText] = useState("");
 
+  const displayName = mongoUser?.name || "Loading...";
+  const initials = mongoUser?.name
+    ? mongoUser.name.split(" ").map((n) => n[0]).join("").slice(0, 2).toUpperCase()
+    : "?";
+
   const [formData, setFormData] = useState({
-    firstName: "Rahul",
-    lastName: "Kumar",
-    email: "rahul.kumar@gmail.com",
-    phone: "+91 9876543210",
-    dob: "1999-01-15",
-    gender: "Male",
-    city: "Varanasi",
-    state: "Uttar Pradesh",
+    firstName: mongoUser?.name?.split(" ")[0] || "",
+    lastName: mongoUser?.name?.split(" ").slice(1).join(" ") || "",
+    email: mongoUser?.email || "",
+    phone: mongoUser?.phone || "",
+    dob: "",
+    gender: "",
+    city: "",
+    state: "",
     bio: "",
   });
 
@@ -90,7 +97,7 @@ export default function ProfileSettings() {
   const strengthColor = ["#EF4444", "#EF4444", "#F59E0B", "#3B82F6", "#10B981"][strengthScore];
 
   const connectedAccounts = [
-    { name: "Google", letter: "G", bg: "#FEE2E2", color: "#DC2626", connected: true, email: "rahul@gmail.com" },
+    { name: "Google", letter: "G", bg: "#FEE2E2", color: "#DC2626", connected: true, email: mongoUser?.email || "" },
     { name: "Facebook", letter: "f", bg: "#DBEAFE", color: "#1D4ED8", connected: false },
     { name: "Apple", letter: "", bg: "#F1F5F9", color: "#1E293B", connected: false },
   ];
@@ -385,9 +392,9 @@ export default function ProfileSettings() {
       <div style={styles.sidebar}>
         <div>
           <div style={styles.profileSection}>
-            <div style={styles.avatarSmall}>RK</div>
-            <p style={styles.userName}>Rahul Kumar</p>
-            <p style={styles.userEmail}>rahul.kumar@email.com</p>
+            <div style={styles.avatarSmall}>{initials}</div>
+            <p style={styles.userName}>{displayName}</p>
+            <p style={styles.userEmail}>{mongoUser?.email || ""}</p>
             <span style={styles.editProfileLink} onClick={() => navigate("/profile")}>
               Edit Profile
             </span>
@@ -459,13 +466,13 @@ export default function ProfileSettings() {
                           }}
                         />
                       ) : (
-                        "RK"
+                        initials
                       )}
                       <div style={styles.cameraBadge}>📷</div>
                     </div>
                     <div style={styles.profileInfoBlock}>
-                      <p style={styles.profileNameText}>Rahul Kumar</p>
-                      <p style={styles.profileEmailText}>rahul.kumar@gmail.com</p>
+                      <p style={styles.profileNameText}>{displayName}</p>
+                      <p style={styles.profileEmailText}>{mongoUser?.email || ""}</p>
                       <div style={styles.photoButtonsRow}>
                         <input
                           type="file"
@@ -547,6 +554,7 @@ export default function ProfileSettings() {
                           value={formData.gender}
                           onChange={(e) => setFormData({ ...formData, gender: e.target.value })}
                         >
+                          <option value="">Select</option>
                           <option>Male</option>
                           <option>Female</option>
                           <option>Other</option>
@@ -571,6 +579,7 @@ export default function ProfileSettings() {
                           value={formData.state}
                           onChange={(e) => setFormData({ ...formData, state: e.target.value })}
                         >
+                          <option value="">Select</option>
                           <option>Uttar Pradesh</option>
                           <option>Rajasthan</option>
                           <option>Delhi</option>
