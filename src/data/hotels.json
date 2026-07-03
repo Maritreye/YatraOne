@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Pearl Palace",
+    "stars": 4,
+    "location": "Near Jaipur Junction, 0.8 km",
+    "rating": 4.3,
+    "ratingLabel": "Very Good",
+    "reviews": 428,
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "AC"
+    ],
+    "highlights": [
+      "Free cancellation",
+      "Breakfast included"
+    ],
+    "price": 2499,
+    "originalPrice": 3200,
+    "discount": 22,
+    "icon": "🏨",
+    "amenitiesDetailed": [
+      {
+        "icon": "📶",
+        "label": "Free WiFi"
+      },
+      {
+        "icon": "🏊",
+        "label": "Swimming Pool"
+      },
+      {
+        "icon": "🅿️",
+        "label": "Free Parking"
+      },
+      {
+        "icon": "❄️",
+        "label": "AC Rooms"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Restaurant"
+      },
+      {
+        "icon": "🛎️",
+        "label": "Room Service"
+      },
+      {
+        "icon": "💪",
+        "label": "Gym"
+      },
+      {
+        "icon": "💆",
+        "label": "Spa"
+      },
+      {
+        "icon": "✈️",
+        "label": "Airport Shuttle"
+      },
+      {
+        "icon": "👕",
+        "label": "Laundry"
+      },
+      {
+        "icon": "📹",
+        "label": "CCTV"
+      },
+      {
+        "icon": "🕐",
+        "label": "24hr Reception"
+      },
+      {
+        "icon": "🏥",
+        "label": "Doctor on Call"
+      },
+      {
+        "icon": "🗺️",
+        "label": "Travel Desk"
+      },
+      {
+        "icon": "🛗",
+        "label": "Elevator"
+      },
+      {
+        "icon": "📊",
+        "label": "Conference Room"
+      }
+    ],
+    "rooms": [
+      {
+        "name": "Standard Room",
+        "size": "220 sq ft · 1 King Bed",
+        "chips": [
+          "AC",
+          "WiFi",
+          "TV",
+          "Hot Water"
+        ],
+        "price": "₹2,499"
+      },
+      {
+        "name": "Deluxe Room",
+        "size": "320 sq ft · 1 King Bed",
+        "chips": [
+          "AC",
+          "WiFi",
+          "TV",
+          "Hot Water",
+          "Balcony"
+        ],
+        "price": "₹3,499"
+      },
+      {
+        "name": "Suite",
+        "size": "520 sq ft · 2 King Beds",
+        "chips": [
+          "AC",
+          "WiFi",
+          "TV",
+          "Hot Water",
+          "Jacuzzi",
+          "Balcony"
+        ],
+        "price": "₹5,999"
+      }
+    ],
+    "reviewsDetailed": [
+      {
+        "initials": "RS",
+        "name": "Rahul Sharma",
+        "date": "12 Jun 2025",
+        "stars": 5,
+        "text": "Excellent stay! The rooms were clean, staff was very helpful and the location is perfect. Breakfast was delicious. Will definitely visit again."
+      },
+      {
+        "initials": "PA",
+        "name": "Priya Agarwal",
+        "date": "28 May 2025",
+        "stars": 4,
+        "text": "Very good hotel at a great price. The pool area is beautiful. Only minor issue was slow room service but overall a wonderful experience."
+      },
+      {
+        "initials": "MK",
+        "name": "Manish Kumar",
+        "date": "15 May 2025",
+        "stars": 4,
+        "text": "Great location near Jaipur Junction. Rooms are spacious and well maintained. The rooftop restaurant has an amazing view of the city."
+      }
+    ],
+    "nearby": [
+      {
+        "icon": "🚂",
+        "name": "Jaipur Junction",
+        "dist": "0.8 km"
+      },
+      {
+        "icon": "🏛️",
+        "name": "Hawa Mahal",
+        "dist": "2.1 km"
+      },
+      {
+        "icon": "🏰",
+        "name": "City Palace",
+        "dist": "2.8 km"
+      },
+      {
+        "icon": "✈️",
+        "name": "Airport",
+        "dist": "14 km"
+      }
+    ],
+    "ratingBars": [
+      {
+        "label": "Cleanliness",
+        "pct": 90
+      },
+      {
+        "label": "Location",
+        "pct": 85
+      },
+      {
+        "label": "Service",
+        "pct": 88
+      },
+      {
+        "label": "Value for money",
+        "pct": 80
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Zostel Jaipur",
+    "stars": 3,
+    "location": "Bani Park, 1.2 km from station",
+    "rating": 4.1,
+    "ratingLabel": "Good",
+    "reviews": 312,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Restaurant"
+    ],
+    "highlights": [
+      "Free cancellation"
+    ],
+    "price": 899,
+    "originalPrice": 1200,
+    "discount": 25,
+    "icon": "🏩"
+  },
+  {
+    "id": 3,
+    "name": "ITC Rajputana",
+    "stars": 5,
+    "location": "Palace Road, 2.1 km from station",
+    "rating": 4.7,
+    "ratingLabel": "Excellent",
+    "reviews": 892,
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "AC",
+      "Gym"
+    ],
+    "highlights": [
+      "Free cancellation",
+      "Breakfast included"
+    ],
+    "price": 7499,
+    "originalPrice": 9500,
+    "discount": 21,
+    "icon": "🏰"
+  },
+  {
+    "id": 4,
+    "name": "OYO Rooms Sindhi Camp",
+    "stars": 2,
+    "location": "Sindhi Camp, 0.3 km from station",
+    "rating": 3.8,
+    "ratingLabel": "Pleasant",
+    "reviews": 156,
+    "amenities": [
+      "WiFi",
+      "AC"
+    ],
+    "highlights": [
+      "Free cancellation"
+    ],
+    "price": 599,
+    "originalPrice": 800,
+    "discount": 25,
+    "icon": "🏠"
+  },
+  {
+    "id": 5,
+    "name": "Samode Haveli",
+    "stars": 5,
+    "location": "Gangapole, 3.5 km from station",
+    "rating": 4.8,
+    "ratingLabel": "Excellent",
+    "reviews": 634,
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "AC",
+      "Restaurant"
+    ],
+    "highlights": [
+      "Breakfast included"
+    ],
+    "price": 12999,
+    "originalPrice": 16000,
+    "discount": 19,
+    "icon": "🏯"
+  }
+]

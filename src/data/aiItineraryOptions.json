@@ -1,0 +1,95 @@
+{
+  "travellerOptions": [
+    {
+      "id": "solo",
+      "icon": "🧍",
+      "label": "Solo",
+      "desc": "Just me",
+      "count": 1
+    },
+    {
+      "id": "couple",
+      "icon": "👫",
+      "label": "Couple",
+      "desc": "2 people",
+      "count": 2
+    },
+    {
+      "id": "family",
+      "icon": "👨‍👩‍👧",
+      "label": "Family",
+      "desc": "3–5 people",
+      "count": 4
+    },
+    {
+      "id": "group",
+      "icon": "👥",
+      "label": "Group",
+      "desc": "6+ people",
+      "count": 6
+    }
+  ],
+  "styleOptions": [
+    {
+      "id": "relaxed",
+      "icon": "🌴",
+      "label": "Relaxed",
+      "desc": "Fewer places, more time at each"
+    },
+    {
+      "id": "balanced",
+      "icon": "⚖️",
+      "label": "Balanced",
+      "desc": "Mix of sightseeing and relaxation"
+    },
+    {
+      "id": "packed",
+      "icon": "⚡",
+      "label": "Packed",
+      "desc": "Maximum places, full days"
+    }
+  ],
+  "interests": [
+    "Historical Sites",
+    "Nature & Parks",
+    "Local Food",
+    "Shopping",
+    "Adventure Sports",
+    "Religious Places",
+    "Nightlife",
+    "Photography",
+    "Museums",
+    "Street Food",
+    "Local Markets",
+    "Wellness & Spa"
+  ],
+  "accommodationOptions": [
+    "Budget Hotels",
+    "3 Star Hotels",
+    "4-5 Star Hotels",
+    "Homestays"
+  ],
+  "budgetChips": [
+    {
+      "label": "Budget (under ₹5K)",
+      "value": 5000
+    },
+    {
+      "label": "Standard (₹5K–₹20K)",
+      "value": 15000
+    },
+    {
+      "label": "Comfort (₹20K–₹50K)",
+      "value": 35000
+    },
+    {
+      "label": "Luxury (₹50K+)",
+      "value": 75000
+    }
+  ],
+  "loadingTips": [
+    "Finding the best trains for your route...",
+    "Discovering top hotels within your budget...",
+    "Selecting must-visit attractions..."
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "bookings": [
+    {
+      "id": "TRN001",
+      "type": "Train",
+      "platform": "IRCTC redirect",
+      "name": "Kashi Vishwanath Express",
+      "route": "Varanasi → Jaipur",
+      "date": "20 Jun 2025",
+      "time": "10:45 AM",
+      "classOrRoom": "Sleeper",
+      "amount": 1285,
+      "unit": "Per person",
+      "status": "Redirected",
+      "details": {
+        "fullRoute": "Varanasi Jn → Kanpur Central → Jaipur Jn",
+        "departure": "06:00",
+        "arrival": "20:30",
+        "duration": "14h 30m",
+        "classFull": "AC 3 Tier (3A)",
+        "travellers": "2 adults",
+        "totalFare": 2570
+      }
+    },
+    {
+      "id": "TRN002",
+      "type": "Train",
+      "platform": "IRCTC redirect",
+      "name": "Shatabdi Express",
+      "route": "Delhi → Agra",
+      "date": "15 May 2025",
+      "time": "07:20 AM",
+      "classOrRoom": "Sleeper",
+      "amount": 855,
+      "unit": "Per person",
+      "status": "Completed",
+      "details": {
+        "fullRoute": "New Delhi → Agra Cantt",
+        "departure": "06:00",
+        "arrival": "08:00",
+        "duration": "2h 00m",
+        "classFull": "AC Chair Car (CC)",
+        "travellers": "2 adults",
+        "totalFare": 1710
+      }
+    },
+    {
+      "id": "TRN003",
+      "type": "Train",
+      "platform": "IRCTC redirect",
+      "name": "Rajdhani Express",
+      "route": "Mumbai → Delhi",
+      "date": "2 Apr 2025",
+      "time": "04:15 PM",
+      "classOrRoom": "Sleeper",
+      "amount": 2450,
+      "unit": "Per person",
+      "status": "Completed",
+      "details": {
+        "fullRoute": "Mumbai Central → New Delhi",
+        "departure": "17:00",
+        "arrival": "08:35",
+        "duration": "15h 35m",
+        "classFull": "AC 2 Tier (2A)",
+        "travellers": "1 adult",
+        "totalFare": 2450
+      }
+    },
+    {
+      "id": "TRN004",
+      "type": "Train",
+      "platform": "IRCTC redirect",
+      "name": "Duronto Express",
+      "route": "Kolkata → Varanasi",
+      "date": "10 Mar 2025",
+      "time": "11:05 AM",
+      "classOrRoom": "Sleeper",
+      "amount": 1650,
+      "unit": "Per person",
+      "status": "Completed",
+      "details": {
+        "fullRoute": "Howrah Jn → Varanasi Jn",
+        "departure": "20:05",
+        "arrival": "09:40",
+        "duration": "13h 35m",
+        "classFull": "AC 3 Tier (3A)",
+        "travellers": "2 adults",
+        "totalFare": 3300
+      }
+    },
+    {
+      "id": "TRN005",
+      "type": "Train",
+      "platform": "IRCTC redirect",
+      "name": "Jan Shatabdi",
+      "route": "Jaipur → Ajmer",
+      "date": "1 Mar 2025",
+      "time": "09:30 AM",
+      "classOrRoom": "Sleeper",
+      "amount": 285,
+      "unit": "Per person",
+      "status": "Completed",
+      "details": {
+        "fullRoute": "Jaipur Jn → Ajmer Jn",
+        "departure": "06:15",
+        "arrival": "08:30",
+        "duration": "2h 15m",
+        "classFull": "AC Chair Car (CC)",
+        "travellers": "1 adult",
+        "totalFare": 285
+      }
+    },
+    {
+      "id": "HTL001",
+      "type": "Hotel",
+      "platform": "MakeMyTrip redirect",
+      "name": "Hotel Pearl Palace",
+      "route": "Jaipur · 20–22 Jun 2025",
+      "date": "20 Jun 2025",
+      "time": "12:00 PM",
+      "classOrRoom": "Deluxe Room",
+      "amount": 4998,
+      "unit": "Per night",
+      "status": "Pending",
+      "details": {
+        "checkIn": "20 Jun 2025 · 12:00 PM",
+        "checkOut": "22 Jun 2025 · 11:00 AM",
+        "nights": 2,
+        "room": "Deluxe Room",
+        "guests": "2 adults",
+        "perNight": 2499,
+        "subtotal": 4998
+      }
+    },
+    {
+      "id": "HTL002",
+      "type": "Hotel",
+      "platform": "MakeMyTrip redirect",
+      "name": "Zostel Delhi",
+      "route": "Delhi · 15–16 May 2025",
+      "date": "15 May 2025",
+      "time": "02:30 PM",
+      "classOrRoom": "Dorm Bed",
+      "amount": 1200,
+      "unit": "Per night",
+      "status": "Completed",
+      "details": {
+        "checkIn": "15 May 2025 · 02:00 PM",
+        "checkOut": "16 May 2025 · 11:00 AM",
+        "nights": 1,
+        "room": "Dorm Bed",
+        "guests": "2 adults",
+        "perNight": 1200,
+        "subtotal": 1200
+      }
+    },
+    {
+      "id": "HTL003",
+      "type": "Hotel",
+      "platform": "MakeMyTrip redirect",
+      "name": "Taj Hotel Agra",
+      "route": "Agra · 15–17 May 2025",
+      "date": "15 May 2025",
+      "time": "01:15 PM",
+      "classOrRoom": "Premium Room",
+      "amount": 12000,
+      "unit": "Per night",
+      "status": "Completed",
+      "details": {
+        "checkIn": "15 May 2025 · 02:00 PM",
+        "checkOut": "17 May 2025 · 11:00 AM",
+        "nights": 2,
+        "room": "Premium Room",
+        "guests": "2 adults",
+        "perNight": 6000,
+        "subtotal": 12000
+      }
+    }
+  ],
+  "monthlySpend": [
+    {
+      "month": "Jun",
+      "amount": 1285
+    },
+    {
+      "month": "May",
+      "amount": 13855
+    },
+    {
+      "month": "Apr",
+      "amount": 2450
+    },
+    {
+      "month": "Mar",
+      "amount": 1935
+    }
+  ]
+}

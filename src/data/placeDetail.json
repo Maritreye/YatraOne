@@ -1,0 +1,59 @@
+{
+  "name": "Hawa Mahal",
+  "category": "Historical Sites",
+  "city": "Jaipur, Rajasthan",
+  "rating": 4.6,
+  "reviews": 1240,
+  "location": "Old City, Jaipur",
+  "distance": "2.1 km from city center",
+  "hours": "9:00 AM – 5:00 PM",
+  "fee": "₹50 Indians · ₹500 Foreigners",
+  "bestTime": "Morning",
+  "images": [
+    "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=900&h=700&fit=crop",
+    "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=500&h=350&fit=crop&sat=-30",
+    "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=500&h=350&fit=crop&sat=20"
+  ],
+  "description": "Hawa Mahal, the Palace of Winds, is a stunning five-story palace built from red and pink sandstone. Constructed in 1799, it features 953 small windows called jharokhas, designed to let royal women observe street festivals without being seen. It remains one of the most photographed monuments in Jaipur and a defining symbol of the Pink City.",
+  "highlights": [
+    "953 intricately carved windows",
+    "Unique honeycomb-style facade",
+    "Best photographed in early morning light",
+    "Small museum inside with royal artifacts",
+    "Rooftop view of the City Palace and Jantar Mantar"
+  ],
+  "nearbyPlaces": [
+    {
+      "name": "City Palace",
+      "distance": "0.3 km",
+      "rating": 4.7
+    },
+    {
+      "name": "Jantar Mantar",
+      "distance": "0.4 km",
+      "rating": 4.5
+    },
+    {
+      "name": "Johari Bazaar",
+      "distance": "0.5 km",
+      "rating": 4.3
+    }
+  ],
+  "reviewsList": [
+    {
+      "name": "Ananya R.",
+      "rating": 5,
+      "text": "Absolutely breathtaking architecture, best visited early morning to avoid crowds and get great photos."
+    },
+    {
+      "name": "Rohit S.",
+      "rating": 4,
+      "text": "Beautiful monument, the inside is smaller than expected but the facade alone is worth the visit."
+    },
+    {
+      "name": "Meera K.",
+      "rating": 5,
+      "text": "A must-visit in Jaipur. The view from the top windows over the city is stunning."
+    }
+  ]
+}

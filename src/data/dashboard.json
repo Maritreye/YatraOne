@@ -1,0 +1,160 @@
+{
+  "stats": [
+    {
+      "label": "Total Trips",
+      "value": 8,
+      "icon": "💼",
+      "bg": "#DBEAFE",
+      "color": "#1E40AF",
+      "trend": "+2 this month"
+    },
+    {
+      "label": "Places Visited",
+      "value": 34,
+      "icon": "📍",
+      "bg": "#CCFBF1",
+      "color": "#0F766E",
+      "trend": "+6 this month"
+    },
+    {
+      "label": "Cities Explored",
+      "value": 12,
+      "icon": "🏙️",
+      "bg": "#FEF9C3",
+      "color": "#854D0E",
+      "trend": "+1 this month"
+    },
+    {
+      "label": "AI Itineraries",
+      "value": 5,
+      "icon": "✨",
+      "bg": "#EDE9FE",
+      "color": "#5B21B6",
+      "trend": "+1 this month"
+    }
+  ],
+  "upcomingTrips": [
+    {
+      "destination": "Jaipur, Rajasthan",
+      "daysToGo": "5 days to go",
+      "dates": "20–22 Jun 2025",
+      "travellers": "2 travellers",
+      "train": "Kashi Vishwanath Exp",
+      "hotel": "Hotel Pearl Palace",
+      "img": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=400&h=200&fit=crop"
+    },
+    {
+      "destination": "Udaipur, Rajasthan",
+      "daysToGo": "21 days to go",
+      "dates": "15–18 Jul 2025",
+      "travellers": "4 travellers",
+      "train": "Mewar Express",
+      "hotel": "Lake Palace Resort",
+      "img": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=400&h=200&fit=crop"
+    }
+  ],
+  "activities": [
+    {
+      "icon": "✨",
+      "bg": "#EDE9FE",
+      "color": "#5B21B6",
+      "text": "AI itinerary generated for Jaipur",
+      "time": "2 days ago",
+      "action": "View →"
+    },
+    {
+      "icon": "🔖",
+      "bg": "#DBEAFE",
+      "color": "#1E40AF",
+      "text": "Hawa Mahal saved to wishlist",
+      "time": "3 days ago",
+      "action": "View →"
+    },
+    {
+      "icon": "🔍",
+      "bg": "#CCFBF1",
+      "color": "#0F766E",
+      "text": "Searched trains: Varanasi → Jaipur",
+      "time": "3 days ago",
+      "action": "Search again →"
+    },
+    {
+      "icon": "📍",
+      "bg": "#FEF9C3",
+      "color": "#854D0E",
+      "text": "Explored places in Varanasi",
+      "time": "5 days ago",
+      "action": "View →"
+    },
+    {
+      "icon": "👤",
+      "bg": "#F1F5F9",
+      "color": "#475569",
+      "text": "Profile updated",
+      "time": "1 week ago",
+      "action": null
+    }
+  ],
+  "savedPlaces": [
+    {
+      "name": "Hawa Mahal",
+      "city": "Jaipur",
+      "category": "Historical",
+      "rating": 4.6,
+      "img": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=300&h=200&fit=crop"
+    },
+    {
+      "name": "Amber Fort",
+      "city": "Jaipur",
+      "category": "Fort",
+      "rating": 4.7,
+      "img": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=300&h=200&fit=crop"
+    },
+    {
+      "name": "Lake Pichola",
+      "city": "Udaipur",
+      "category": "Lake",
+      "rating": 4.5,
+      "img": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=300&h=200&fit=crop"
+    },
+    {
+      "name": "Jantar Mantar",
+      "city": "Jaipur",
+      "category": "Monument",
+      "rating": 4.3,
+      "img": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=300&h=200&fit=crop"
+    }
+  ],
+  "aiItineraries": [
+    {
+      "destination": "Jaipur Trip",
+      "dates": "20–22 Jun 2025",
+      "stats": "3 days · 2 travellers · ₹15,000",
+      "status": "Upcoming",
+      "progress": 30,
+      "color": "#2563EB",
+      "badgeBg": "#DBEAFE",
+      "badgeText": "#1E40AF"
+    },
+    {
+      "destination": "Udaipur Trip",
+      "dates": "15–18 Jul 2025",
+      "stats": "4 days · 4 travellers · ₹25,000",
+      "status": "Draft",
+      "progress": 5,
+      "color": "#E2E8F0",
+      "badgeBg": "#F1F5F9",
+      "badgeText": "#475569"
+    },
+    {
+      "destination": "Varanasi Trip",
+      "dates": "10–12 Apr 2025",
+      "stats": "3 days · 2 travellers · ₹10,000",
+      "status": "Completed",
+      "progress": 100,
+      "color": "#10B981",
+      "badgeBg": "#DCFCE7",
+      "badgeText": "#166534"
+    }
+  ]
+}

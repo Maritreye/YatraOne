@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Jaipur Junction",
+    "type": "Station",
+    "category": "Train Stations",
+    "distance": "0.5 km",
+    "rating": 4.3,
+    "address": "Station Rd, Jaipur",
+    "top": "20%",
+    "left": "15%",
+    "price": null
+  },
+  {
+    "id": 2,
+    "name": "Gandhinagar Station",
+    "type": "Station",
+    "category": "Train Stations",
+    "distance": "3.2 km",
+    "rating": 4,
+    "address": "Gandhinagar, Jaipur",
+    "top": "65%",
+    "left": "10%",
+    "price": null
+  },
+  {
+    "id": 3,
+    "name": "Hotel Pearl Palace",
+    "type": "Hotel",
+    "category": "Hotels",
+    "distance": "1.8 km",
+    "rating": 4.5,
+    "address": "Hari Kishan Somani Marg",
+    "top": "35%",
+    "left": "55%",
+    "price": "₹2,499"
+  },
+  {
+    "id": 4,
+    "name": "Zostel Jaipur",
+    "type": "Hotel",
+    "category": "Hotels",
+    "distance": "2.4 km",
+    "rating": 4.4,
+    "address": "Fateh Tiba, Jaipur",
+    "top": "55%",
+    "left": "70%",
+    "price": "₹899"
+  },
+  {
+    "id": 5,
+    "name": "Hawa Mahal",
+    "type": "Place",
+    "category": "Tourist Places",
+    "distance": "2.1 km",
+    "rating": 4.6,
+    "address": "Hawa Mahal Rd, Old City",
+    "top": "30%",
+    "left": "40%",
+    "price": null
+  },
+  {
+    "id": 6,
+    "name": "City Palace",
+    "type": "Place",
+    "category": "Tourist Places",
+    "distance": "2.4 km",
+    "rating": 4.7,
+    "address": "Old City, Jaipur",
+    "top": "22%",
+    "left": "48%",
+    "price": null
+  },
+  {
+    "id": 7,
+    "name": "Amber Fort",
+    "type": "Place",
+    "category": "Tourist Places",
+    "distance": "11 km",
+    "rating": 4.8,
+    "address": "Amer, Jaipur",
+    "top": "10%",
+    "left": "75%",
+    "price": null
+  },
+  {
+    "id": 8,
+    "name": "LMB Restaurant",
+    "type": "Restaurant",
+    "category": "Restaurants",
+    "distance": "2.0 km",
+    "rating": 4.4,
+    "address": "Johari Bazaar, Jaipur",
+    "top": "48%",
+    "left": "35%",
+    "price": null
+  },
+  {
+    "id": 9,
+    "name": "Johari Bazaar",
+    "type": "Shopping",
+    "category": "Shopping",
+    "distance": "1.8 km",
+    "rating": 4.3,
+    "address": "Old City, Jaipur",
+    "top": "60%",
+    "left": "45%",
+    "price": null
+  },
+  {
+    "id": 10,
+    "name": "Jantar Mantar",
+    "type": "Place",
+    "category": "Tourist Places",
+    "distance": "2.2 km",
+    "rating": 4.5,
+    "address": "Old City, Jaipur",
+    "top": "18%",
+    "left": "58%",
+    "price": null
+  }
+]

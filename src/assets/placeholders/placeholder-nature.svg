@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F8FAFC"/>
+  <circle cx="320" cy="60" r="24" fill="#FEF9C3"/>
+  <rect x="0" y="230" width="400" height="70" fill="#DCFCE7"/>
+  <!-- hills -->
+  <path d="M0 230 Q80 190 160 230 T320 230 T400 230 L400 300 L0 300 Z" fill="#CCFBF1"/>
+  <!-- doodle trees -->
+  <g stroke="#0F766E" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M100 230 L100 190"/>
+    <circle cx="100" cy="170" r="24" fill="#A7F3D0" stroke="#0F766E"/>
+    <path d="M180 230 L180 200"/>
+    <circle cx="180" cy="182" r="18" fill="#A7F3D0" stroke="#0F766E"/>
+    <path d="M290 230 L290 185"/>
+    <circle cx="290" cy="165" r="26" fill="#A7F3D0" stroke="#0F766E"/>
+  </g>
+  <!-- bird doodles -->
+  <path d="M60 70 Q68 62 76 70 Q84 62 92 70" stroke="#94A3B8" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M150 50 Q158 42 166 50 Q174 42 182 50" stroke="#94A3B8" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <line x1="0" y1="230" x2="400" y2="230" stroke="#94A3B8" stroke-width="3"/>
+  <text x="200" y="280" font-family="Inter, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">
+    Illustrative image — not an actual photo of this place
+  </text>
+</svg>

@@ -1,0 +1,182 @@
+{
+  "name": "Kashi Vishwanath Express",
+  "number": "15127",
+  "type": "Superfast Express",
+  "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+  ],
+  "departure": "06:00",
+  "arrival": "20:30",
+  "duration": "14h 30m",
+  "distance": "1,100 km",
+  "from": "Varanasi Jn",
+  "fromCity": "Varanasi",
+  "to": "Jaipur Jn",
+  "toCity": "Jaipur",
+  "classes": [
+    {
+      "name": "SL",
+      "full": "Sleeper",
+      "price": "₹485",
+      "status": "Available",
+      "statusColor": "#166534",
+      "statusBg": "#DCFCE7"
+    },
+    {
+      "name": "3A",
+      "full": "AC 3 Tier",
+      "price": "₹1,285",
+      "status": "Available",
+      "statusColor": "#166534",
+      "statusBg": "#DCFCE7"
+    },
+    {
+      "name": "2A",
+      "full": "AC 2 Tier",
+      "price": "₹1,820",
+      "status": "4 seats left",
+      "statusColor": "#854D0E",
+      "statusBg": "#FEF9C3"
+    },
+    {
+      "name": "1A",
+      "full": "First Class",
+      "price": "₹2,950",
+      "status": "Waitlist",
+      "statusColor": "#991B1B",
+      "statusBg": "#FEE2E2"
+    }
+  ],
+  "stops": [
+    {
+      "time": "06:00",
+      "station": "Varanasi Junction",
+      "platform": "PF 1",
+      "halt": null,
+      "type": "source"
+    },
+    {
+      "time": "08:45",
+      "station": "Prayagraj Junction",
+      "platform": "PF 3",
+      "halt": "10 min",
+      "type": "mid"
+    },
+    {
+      "time": "10:30",
+      "station": "Fatehpur",
+      "platform": "PF 2",
+      "halt": "2 min",
+      "type": "mid"
+    },
+    {
+      "time": "11:30",
+      "station": "Kanpur Central",
+      "platform": "PF 5",
+      "halt": "5 min",
+      "type": "mid"
+    },
+    {
+      "time": "13:15",
+      "station": "Etawah",
+      "platform": "PF 1",
+      "halt": "2 min",
+      "type": "mid"
+    },
+    {
+      "time": "15:00",
+      "station": "Agra Cantt",
+      "platform": "PF 4",
+      "halt": "10 min",
+      "type": "mid"
+    },
+    {
+      "time": "17:20",
+      "station": "Bharatpur",
+      "platform": "PF 2",
+      "halt": "3 min",
+      "type": "mid"
+    },
+    {
+      "time": "20:30",
+      "station": "Jaipur Junction",
+      "platform": "PF 6",
+      "halt": null,
+      "type": "dest"
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "🍽️",
+      "label": "Pantry",
+      "value": "Available"
+    },
+    {
+      "icon": "♿",
+      "label": "Wheelchair",
+      "value": "Accessible"
+    },
+    {
+      "icon": "📶",
+      "label": "WiFi",
+      "value": "Not available"
+    },
+    {
+      "icon": "🛏️",
+      "label": "Bedroll",
+      "value": "AC classes only"
+    },
+    {
+      "icon": "🔌",
+      "label": "Charging",
+      "value": "Available"
+    },
+    {
+      "icon": "📡",
+      "label": "Running status",
+      "value": "On time"
+    }
+  ],
+  "similarTrains": [
+    {
+      "name": "Marudhar Express",
+      "number": "14853",
+      "dep": "09:15",
+      "arr": "23:45",
+      "price": "₹465"
+    },
+    {
+      "name": "Padmavat Express",
+      "number": "14223",
+      "dep": "13:40",
+      "arr": "05:10",
+      "price": "₹475"
+    },
+    {
+      "name": "Bundelkhand Express",
+      "number": "11108",
+      "dep": "22:30",
+      "arr": "14:00",
+      "price": "₹455"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Pearl Palace",
+      "stars": 4,
+      "price": "₹1,200/night",
+      "icon": "🏨"
+    },
+    {
+      "name": "Zostel Jaipur",
+      "stars": 3,
+      "price": "₹800/night",
+      "icon": "🏩"
+    }
+  ]
+}

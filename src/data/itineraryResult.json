@@ -1,0 +1,293 @@
+{
+  "stats": [
+    "3 Days",
+    "1 Train",
+    "1 Hotel",
+    "8 Places"
+  ],
+  "expenses": [
+    {
+      "label": "Train tickets (2x)",
+      "amount": 970,
+      "color": "#2563EB"
+    },
+    {
+      "label": "Hotel (2 nights)",
+      "amount": 4998,
+      "color": "#0F766E"
+    },
+    {
+      "label": "Entry fees",
+      "amount": 1070,
+      "color": "#D97706"
+    },
+    {
+      "label": "Food & dining",
+      "amount": 3600,
+      "color": "#BE123C"
+    },
+    {
+      "label": "Local transport",
+      "amount": 800,
+      "color": "#94A3B8"
+    },
+    {
+      "label": "Shopping",
+      "amount": 2000,
+      "color": "#5B21B6"
+    },
+    {
+      "label": "Miscellaneous",
+      "amount": 500,
+      "color": "#64748B"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "date": "Monday · 20 June 2025",
+      "activities": [
+        {
+          "time": "06:00",
+          "type": "Train",
+          "name": "Board Train — Kashi Vishwanath Express #15127",
+          "desc": "Varanasi Jn → Jaipur Jn",
+          "duration": "14h 30m journey · Sleeper class",
+          "cost": null,
+          "action": "Book on IRCTC ↗"
+        },
+        {
+          "time": "20:30",
+          "type": "Travel",
+          "name": "Arrive at Jaipur Junction",
+          "desc": "Check into hotel after arrival",
+          "duration": null,
+          "cost": null,
+          "action": null
+        },
+        {
+          "time": "21:00",
+          "type": "Hotel",
+          "name": "Hotel Pearl Palace",
+          "desc": "Civil Lines, Near Station",
+          "duration": null,
+          "cost": null,
+          "action": "Book on MakeMyTrip ↗"
+        },
+        {
+          "time": "21:30",
+          "type": "Restaurant",
+          "name": "LMB Restaurant",
+          "desc": "Famous for Rajasthani thali",
+          "duration": null,
+          "cost": "~₹300 per person",
+          "action": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "Tuesday · 21 June 2025",
+      "activities": [
+        {
+          "time": "07:00",
+          "type": "Restaurant",
+          "name": "Breakfast at hotel",
+          "desc": "Start the day with a hearty breakfast",
+          "duration": "~45 min",
+          "cost": null,
+          "action": null
+        },
+        {
+          "time": "09:00",
+          "type": "Place",
+          "name": "Amber Fort",
+          "desc": "Majestic hilltop fort with stunning architecture",
+          "duration": "~2 hours",
+          "cost": "₹100 entry",
+          "action": "View on Map"
+        },
+        {
+          "time": "11:30",
+          "type": "Place",
+          "name": "Jaigarh Fort",
+          "desc": "Home to the world's largest cannon on wheels",
+          "duration": "~1 hour",
+          "cost": "₹35 entry",
+          "action": "View on Map"
+        },
+        {
+          "time": "13:00",
+          "type": "Restaurant",
+          "name": "Lunch at Anokhi Cafe",
+          "desc": "Organic, fresh, and locally sourced meals",
+          "duration": "~1 hour",
+          "cost": "~₹400 per person",
+          "action": null
+        },
+        {
+          "time": "14:30",
+          "type": "Place",
+          "name": "City Palace",
+          "desc": "Royal residence blending Rajasthani and Mughal styles",
+          "duration": "~1.5 hours",
+          "cost": "₹200 entry",
+          "action": "View on Map"
+        },
+        {
+          "time": "17:00",
+          "type": "Place",
+          "name": "Hawa Mahal",
+          "desc": "Iconic Palace of Winds with 953 windows",
+          "duration": "~1 hour",
+          "cost": "₹50 entry",
+          "action": "View Details"
+        },
+        {
+          "time": "19:00",
+          "type": "Place",
+          "name": "Jantar Mantar",
+          "desc": "UNESCO listed astronomical observatory",
+          "duration": "~45 min",
+          "cost": "₹50 entry",
+          "action": "View on Map"
+        },
+        {
+          "time": "20:00",
+          "type": "Restaurant",
+          "name": "Dinner at 1135 AD Restaurant",
+          "desc": "Royal dining experience inside Amber Fort complex",
+          "duration": "~1.5 hours",
+          "cost": "~₹800 per person",
+          "action": null
+        },
+        {
+          "time": "22:00",
+          "type": "Travel",
+          "name": "Back to hotel",
+          "desc": "Rest after a full day of sightseeing",
+          "duration": null,
+          "cost": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "Wednesday · 22 June 2025",
+      "activities": [
+        {
+          "time": "08:00",
+          "type": "Restaurant",
+          "name": "Breakfast at hotel",
+          "desc": "Light breakfast before checkout",
+          "duration": "~45 min",
+          "cost": null,
+          "action": null
+        },
+        {
+          "time": "09:30",
+          "type": "Shopping",
+          "name": "Johari Bazaar",
+          "desc": "Famous market for jewelry, textiles and handicrafts",
+          "duration": "~1.5 hours",
+          "cost": null,
+          "action": "View on Map"
+        },
+        {
+          "time": "11:00",
+          "type": "Place",
+          "name": "Albert Hall Museum",
+          "desc": "Oldest museum in Rajasthan with rich artefacts",
+          "duration": "~1 hour",
+          "cost": "₹40 entry",
+          "action": "View Details"
+        },
+        {
+          "time": "13:00",
+          "type": "Restaurant",
+          "name": "Lunch",
+          "desc": "Local Rajasthani thali near the museum",
+          "duration": "~1 hour",
+          "cost": "~₹350 per person",
+          "action": null
+        },
+        {
+          "time": "14:30",
+          "type": "Place",
+          "name": "Birla Mandir",
+          "desc": "Beautiful white marble temple",
+          "duration": "~45 min",
+          "cost": null,
+          "action": "View on Map"
+        },
+        {
+          "time": "16:00",
+          "type": "Hotel",
+          "name": "Hotel Checkout",
+          "desc": "Collect luggage and settle bill",
+          "duration": null,
+          "cost": null,
+          "action": null
+        },
+        {
+          "time": "18:00",
+          "type": "Train",
+          "name": "Board return train",
+          "desc": "Jaipur Jn → Varanasi Jn",
+          "duration": "14h 30m journey",
+          "cost": null,
+          "action": "Book on IRCTC ↗"
+        }
+      ]
+    }
+  ],
+  "trainTravel": [
+    {
+      "from": "Varanasi → Jaipur",
+      "text": "~15 min by auto · ₹30"
+    }
+  ],
+  "weatherTrip": [
+    {
+      "date": "20 Jun",
+      "icon": "☀️",
+      "condition": "Sunny",
+      "temp": "32°C"
+    },
+    {
+      "date": "21 Jun",
+      "icon": "⛅",
+      "condition": "Partly cloudy",
+      "temp": "29°C"
+    },
+    {
+      "date": "22 Jun",
+      "icon": "☀️",
+      "condition": "Sunny",
+      "temp": "31°C"
+    }
+  ],
+  "tips": [
+    {
+      "icon": "₹",
+      "text": "Carry cash for local markets"
+    },
+    {
+      "icon": "🗣️",
+      "text": "Basic Hindi phrases will help"
+    },
+    {
+      "icon": "👕",
+      "text": "Dress modestly at religious sites"
+    },
+    {
+      "icon": "📷",
+      "text": "Best photography: early morning"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Keep digital copies of all tickets"
+    }
+  ]
+}

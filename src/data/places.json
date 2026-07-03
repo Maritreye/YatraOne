@@ -1,0 +1,167 @@
+{
+  "categories": [
+    "All Places",
+    "Historical Sites",
+    "Nature & Parks",
+    "Temples & Religious",
+    "Museums",
+    "Restaurants & Food",
+    "Shopping",
+    "Adventure",
+    "Nightlife"
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "Hawa Mahal",
+      "category": "Historical Sites",
+      "rating": 4.6,
+      "reviews": 1240,
+      "location": "Old City, Jaipur",
+      "distance": "2.1 km from city center",
+      "hours": "9:00 AM – 5:00 PM",
+      "fee": "₹50 Indians · ₹500 Foreigners",
+      "bestTime": "Morning",
+      "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600&h=400&fit=crop",
+      "city": "Jaipur, Rajasthan",
+      "images": [
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=900&h=700&fit=crop",
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=500&h=350&fit=crop&sat=-30",
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=500&h=350&fit=crop&sat=20"
+      ],
+      "description": "Hawa Mahal, the Palace of Winds, is a stunning five-story palace built from red and pink sandstone. Constructed in 1799, it features 953 small windows called jharokhas, designed to let royal women observe street festivals without being seen. It remains one of the most photographed monuments in Jaipur and a defining symbol of the Pink City.",
+      "highlights": [
+        "953 intricately carved windows",
+        "Unique honeycomb-style facade",
+        "Best photographed in early morning light",
+        "Small museum inside with royal artifacts",
+        "Rooftop view of the City Palace and Jantar Mantar"
+      ],
+      "nearbyPlaces": [
+        {
+          "name": "City Palace",
+          "distance": "0.3 km",
+          "rating": 4.7
+        },
+        {
+          "name": "Jantar Mantar",
+          "distance": "0.4 km",
+          "rating": 4.5
+        },
+        {
+          "name": "Johari Bazaar",
+          "distance": "0.5 km",
+          "rating": 4.3
+        }
+      ],
+      "reviewsList": [
+        {
+          "name": "Ananya R.",
+          "rating": 5,
+          "text": "Absolutely breathtaking architecture, best visited early morning to avoid crowds and get great photos."
+        },
+        {
+          "name": "Rohit S.",
+          "rating": 4,
+          "text": "Beautiful monument, the inside is smaller than expected but the facade alone is worth the visit."
+        },
+        {
+          "name": "Meera K.",
+          "rating": 5,
+          "text": "A must-visit in Jaipur. The view from the top windows over the city is stunning."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "City Palace",
+      "category": "Historical Sites",
+      "rating": 4.7,
+      "reviews": 980,
+      "location": "Old City, Jaipur",
+      "distance": "2.4 km from city center",
+      "hours": "9:00 AM – 5:00 PM",
+      "fee": "₹200 Indians · ₹700 Foreigners",
+      "bestTime": "Morning",
+      "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600&h=400&fit=crop&sat=-50"
+    },
+    {
+      "id": 3,
+      "name": "Amber Fort",
+      "category": "Historical Sites",
+      "rating": 4.8,
+      "reviews": 2310,
+      "location": "Amer, Jaipur",
+      "distance": "11 km from city center",
+      "hours": "8:00 AM – 6:00 PM",
+      "fee": "₹100 Indians · ₹500 Foreigners",
+      "bestTime": "Morning",
+      "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600&h=400&fit=crop&sat=20"
+    },
+    {
+      "id": 4,
+      "name": "Jantar Mantar",
+      "category": "Historical Sites",
+      "rating": 4.5,
+      "reviews": 760,
+      "location": "Old City, Jaipur",
+      "distance": "2.2 km from city center",
+      "hours": "9:00 AM – 5:00 PM",
+      "fee": "₹50 Indians · ₹200 Foreigners",
+      "bestTime": "Afternoon",
+      "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600&h=400&fit=crop&sat=-20"
+    },
+    {
+      "id": 5,
+      "name": "Laxmi Misthan Bhandar",
+      "category": "Restaurants & Food",
+      "rating": 4.4,
+      "reviews": 1890,
+      "location": "Johari Bazaar, Jaipur",
+      "distance": "2.0 km from city center",
+      "hours": "8:00 AM – 10:00 PM",
+      "fee": "Free entry",
+      "bestTime": "Evening",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "1135 AD Restaurant",
+      "category": "Restaurants & Food",
+      "rating": 4.6,
+      "reviews": 540,
+      "location": "Amber Fort, Jaipur",
+      "distance": "11 km from city center",
+      "hours": "12:00 PM – 11:00 PM",
+      "fee": "No entry fee",
+      "bestTime": "Night",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop&sat=-30"
+    },
+    {
+      "id": 7,
+      "name": "Johari Bazaar",
+      "category": "Shopping",
+      "rating": 4.3,
+      "reviews": 1120,
+      "location": "Old City, Jaipur",
+      "distance": "1.8 km from city center",
+      "hours": "10:00 AM – 9:00 PM",
+      "fee": "Free entry",
+      "bestTime": "Afternoon",
+      "image": "https://images.unsplash.com/photo-1561361398-a3d5e3e0c8c4?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Bapu Bazaar",
+      "category": "Shopping",
+      "rating": 4.2,
+      "reviews": 870,
+      "location": "Old City, Jaipur",
+      "distance": "1.9 km from city center",
+      "hours": "10:00 AM – 9:00 PM",
+      "fee": "Free entry",
+      "bestTime": "Afternoon",
+      "image": "https://images.unsplash.com/photo-1561361398-a3d5e3e0c8c4?w=600&h=400&fit=crop&sat=-30"
+    }
+  ]
+}

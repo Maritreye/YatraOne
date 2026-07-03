@@ -1,0 +1,169 @@
+{
+  "amenities": [
+    {
+      "icon": "📶",
+      "label": "Free WiFi"
+    },
+    {
+      "icon": "🏊",
+      "label": "Swimming Pool"
+    },
+    {
+      "icon": "🅿️",
+      "label": "Free Parking"
+    },
+    {
+      "icon": "❄️",
+      "label": "AC Rooms"
+    },
+    {
+      "icon": "🍽️",
+      "label": "Restaurant"
+    },
+    {
+      "icon": "🛎️",
+      "label": "Room Service"
+    },
+    {
+      "icon": "💪",
+      "label": "Gym"
+    },
+    {
+      "icon": "💆",
+      "label": "Spa"
+    },
+    {
+      "icon": "✈️",
+      "label": "Airport Shuttle"
+    },
+    {
+      "icon": "👕",
+      "label": "Laundry"
+    },
+    {
+      "icon": "📹",
+      "label": "CCTV"
+    },
+    {
+      "icon": "🕐",
+      "label": "24hr Reception"
+    },
+    {
+      "icon": "🏥",
+      "label": "Doctor on Call"
+    },
+    {
+      "icon": "🗺️",
+      "label": "Travel Desk"
+    },
+    {
+      "icon": "🛗",
+      "label": "Elevator"
+    },
+    {
+      "icon": "📊",
+      "label": "Conference Room"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Standard Room",
+      "size": "220 sq ft · 1 King Bed",
+      "chips": [
+        "AC",
+        "WiFi",
+        "TV",
+        "Hot Water"
+      ],
+      "price": "₹2,499"
+    },
+    {
+      "name": "Deluxe Room",
+      "size": "320 sq ft · 1 King Bed",
+      "chips": [
+        "AC",
+        "WiFi",
+        "TV",
+        "Hot Water",
+        "Balcony"
+      ],
+      "price": "₹3,499"
+    },
+    {
+      "name": "Suite",
+      "size": "520 sq ft · 2 King Beds",
+      "chips": [
+        "AC",
+        "WiFi",
+        "TV",
+        "Hot Water",
+        "Jacuzzi",
+        "Balcony"
+      ],
+      "price": "₹5,999"
+    }
+  ],
+  "reviews": [
+    {
+      "initials": "RS",
+      "name": "Rahul Sharma",
+      "date": "12 Jun 2025",
+      "stars": 5,
+      "text": "Excellent stay! The rooms were clean, staff was very helpful and the location is perfect. Breakfast was delicious. Will definitely visit again."
+    },
+    {
+      "initials": "PA",
+      "name": "Priya Agarwal",
+      "date": "28 May 2025",
+      "stars": 4,
+      "text": "Very good hotel at a great price. The pool area is beautiful. Only minor issue was slow room service but overall a wonderful experience."
+    },
+    {
+      "initials": "MK",
+      "name": "Manish Kumar",
+      "date": "15 May 2025",
+      "stars": 4,
+      "text": "Great location near Jaipur Junction. Rooms are spacious and well maintained. The rooftop restaurant has an amazing view of the city."
+    }
+  ],
+  "nearby": [
+    {
+      "icon": "🚂",
+      "name": "Jaipur Junction",
+      "dist": "0.8 km"
+    },
+    {
+      "icon": "🏛️",
+      "name": "Hawa Mahal",
+      "dist": "2.1 km"
+    },
+    {
+      "icon": "🏰",
+      "name": "City Palace",
+      "dist": "2.8 km"
+    },
+    {
+      "icon": "✈️",
+      "name": "Airport",
+      "dist": "14 km"
+    }
+  ],
+  "ratingBars": [
+    {
+      "label": "Cleanliness",
+      "pct": 90
+    },
+    {
+      "label": "Location",
+      "pct": 85
+    },
+    {
+      "label": "Service",
+      "pct": 88
+    },
+    {
+      "label": "Value for money",
+      "pct": 80
+    }
+  ]
+}

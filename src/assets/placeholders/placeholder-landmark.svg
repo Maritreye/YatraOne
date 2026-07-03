@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F8FAFC"/>
+  <!-- sky doodles -->
+  <circle cx="330" cy="55" r="26" fill="#DBEAFE"/>
+  <path d="M40 70 Q55 58 70 70 Q85 58 100 70" stroke="#CBD5E1" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M240 45 Q255 33 270 45 Q285 33 300 45" stroke="#CBD5E1" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- ground -->
+  <rect x="0" y="230" width="400" height="70" fill="#E2E8F0"/>
+  <!-- generic archway / monument, deliberately non-specific -->
+  <path d="M150 230 L150 140 Q150 100 200 100 Q250 100 250 140 L250 230 Z"
+        fill="none" stroke="#2563EB" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M175 230 L175 150 Q175 125 200 125 Q225 125 225 150 L225 230 Z"
+        fill="#F8FAFC" stroke="#2563EB" stroke-width="4" stroke-linejoin="round"/>
+  <!-- small side pillars -->
+  <rect x="120" y="180" width="16" height="50" rx="3" fill="none" stroke="#0F766E" stroke-width="4"/>
+  <rect x="264" y="180" width="16" height="50" rx="3" fill="none" stroke="#0F766E" stroke-width="4"/>
+  <!-- doodle trees -->
+  <g stroke="#0F766E" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M70 230 L70 195"/>
+    <circle cx="70" cy="180" r="20" fill="#CCFBF1" stroke="#0F766E"/>
+    <path d="M330 230 L330 200"/>
+    <circle cx="330" cy="185" r="18" fill="#CCFBF1" stroke="#0F766E"/>
+  </g>
+  <!-- ground line -->
+  <line x1="0" y1="230" x2="400" y2="230" stroke="#94A3B8" stroke-width="3"/>
+  <text x="200" y="280" font-family="Inter, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">
+    Illustrative image — not an actual photo of this place
+  </text>
+</svg>

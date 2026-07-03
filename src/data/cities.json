@@ -1,0 +1,57 @@
+[
+  {
+    "name": "New Delhi",
+    "code": "NDLS",
+    "city": "Delhi"
+  },
+  {
+    "name": "Mumbai CST",
+    "code": "CSTM",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Chennai Central",
+    "code": "MAS",
+    "city": "Chennai"
+  },
+  {
+    "name": "Howrah Junction",
+    "code": "HWH",
+    "city": "Kolkata"
+  },
+  {
+    "name": "Jaipur Junction",
+    "code": "JP",
+    "city": "Jaipur"
+  },
+  {
+    "name": "Varanasi Junction",
+    "code": "BSB",
+    "city": "Varanasi"
+  },
+  {
+    "name": "Ahmedabad Junction",
+    "code": "ADI",
+    "city": "Ahmedabad"
+  },
+  {
+    "name": "Pune Junction",
+    "code": "PUNE",
+    "city": "Pune"
+  },
+  {
+    "name": "Lucknow",
+    "code": "LKO",
+    "city": "Lucknow"
+  },
+  {
+    "name": "Hyderabad",
+    "code": "HYB",
+    "city": "Hyderabad"
+  },
+  {
+    "name": "Agra Cantt",
+    "code": "AGC",
+    "city": "Agra"
+  }
+]
