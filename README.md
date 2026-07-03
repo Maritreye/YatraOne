@@ -24,9 +24,8 @@ Built as a college full-stack project.
 | Backend    | Node.js + Express (ES Modules) |
 | Database   | MongoDB Atlas + Mongoose |
 | Auth       | Firebase Authentication |
-| Maps       | Leaflet.js |
 | AI         | Groq API (Llama 3.1 8B Instant / Llama 3.3 70B Versatile) |
-| Places API | Geoapify Places API |
+| Maps and Places API | Geoapify Places API |
 
 
 ## Project Structure
